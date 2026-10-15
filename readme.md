@@ -27,7 +27,7 @@ Mostly everything should be installed. All you will have to do is clone this rep
 
 ### Windows
 
-Install python from \[here](python.org)
+Install python from ![here](python.org)
 
 Download the ZIP file from GitHub
 
