@@ -6,7 +6,7 @@
 
 
 
-\###Linux:
+###Linux:
 
 Mostly everything should be installed. All you will have to do is clone this repository and install the required packages (sounds simple enough, right?):
 
@@ -24,7 +24,7 @@ Mostly everything should be installed. All you will have to do is clone this rep
 
 
 
-\###Windows
+###Windows
 
 Install python from \[here](python.org)
 
@@ -40,7 +40,7 @@ type `cmd` in the file address bar in Explorer
 
 
 
-\###macOS
+###macOS
 
 Follow Linux instructions or buy a PC.
 
